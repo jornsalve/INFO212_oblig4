@@ -1,2 +1,1 @@
-# newproject
-# INFO212_oblig4
+Obligatorisk oppg 4  info212 Dream Team
